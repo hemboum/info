@@ -1,17 +1,17 @@
 # Site settings
-title:          Tail
+title:          hemboum
 description:    "Minimal Jekyll blog theme"
-baseurl:        "/tail"
-url:
+baseurl:        "/info"
+url:            "https://hemboum.github.io/info/"
 
 # https://jekyllrb.com/docs/configuration/options/
-timezone: Asia/Kolkata
+timezone: Europe/Berlin
 
 # Author
 #   This is the default author name displayed on all posts, can be overridden by setting a different `author: Your Name`
 #   in the frontmatter
 author:
-  name:         Your Name
+  name:         Faheem
 
 # Build settings
 markdown:       kramdown
