@@ -2,7 +2,7 @@
 title:          hemboum
 description:    "Minimal Jekyll blog theme"
 baseurl:        "/info"
-url:            "https://hemboum.github.io/info/"
+url:            "https://hemboum.github.io"
 
 # https://jekyllrb.com/docs/configuration/options/
 timezone: Europe/Berlin
